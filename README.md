@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @huynhdthanhtuan
 - 👀 I’m interested in Coding, Football
-- 🌱 I’m currently learning ReactJS, NodeJS
+- 🌱 I’m currently learning ReactJS, NodeJS & ExpressJS, NestJS
 - 📫 How to reach me tuan40655@gmail.com
 
 <!---
