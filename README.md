@@ -2,9 +2,9 @@
 <h3 align="center">A new fullstack developer</h3>
 <div align="center">
 
--   👀 I’m currently learning: ReactJS, NodeJS & ExpressJS, NestJS
--   📫 My Email: tuan40655@gmail.com
--   📄 My CV: [myCV](https://pdfhost.io/v/pW0JXDW~L_HuynhDucThanhTuanCV)
+👀 I’m currently learning: ReactJS, NodeJS & ExpressJS, NestJS
+📫 My Email: tuan40655@gmail.com
+📄 My CV: [myCV](https://pdfhost.io/v/pW0JXDW~L_HuynhDucThanhTuanCV)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
