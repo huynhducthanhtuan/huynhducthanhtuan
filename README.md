@@ -47,9 +47,3 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </p>
 </br>
-
-<h3 align="left">Github contributions:</h3>
-<br>
-<p align='center'>
-<img src="https://activity-graph.herokuapp.com/graph?username=huynhdthanhtuan&theme=react-dark&hide_border=true">
-<p>
