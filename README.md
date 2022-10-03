@@ -10,7 +10,7 @@
 <a href="mailto:tuan40655@gmail.com" target="_blank" rel="noopener noreferrer"><img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="E-mail" title="E-mail" height="30" width="40" /></a>
 <a href="https://zalo.me/84377981893" target="_blank" rel="noopener noreferrer"><img align="center" src="https://seeklogo.com/images/Z/zalo-logo-B0A0B2B326-seeklogo.com.png" alt="Zalo" title="Zalo" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/huynhdthanhtuan/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" title="Linkedin" height="30" width="40" /></a>
-<a href="https://www.facebook.com/hdttuan" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" title="Facebook" height="30" width="40" /></a>
+<a href="https://www.facebook.com/huynhdthanhtuan" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" title="Facebook" height="30" width="40" /></a>
 </p>
 </br>
  
