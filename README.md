@@ -1,5 +1,4 @@
 <h1 align="left">Hi, I'm Huynh Duc Thanh Tuan</h1>
-<h3 align="left">A new fullstack developer</h3>
 <h3 align="left">I’m currently learning and working with: ReactJS, NodeJS & ExpressJS</h3>
 </br>
 
