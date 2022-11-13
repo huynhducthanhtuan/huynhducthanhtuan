@@ -1,6 +1,5 @@
 <h1 align="left">Hi, I'm Huynh Duc Thanh Tuan</h1>
 <h3 align="left">I’m currently learning and working with: ReactJS, NodeJS & ExpressJS</h3>
-</br>
 
 <div align="center">
 <h3 align="left">Technologies and tools:</h3>
@@ -32,8 +31,6 @@
 <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </p>
-</br>
-
 
 <h3 align="left">Connect and contact with me:</h3>
 <p align="left">
@@ -43,6 +40,5 @@
 <a href="https://www.linkedin.com/in/huynhducthanhtuan/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" title="Linkedin" height="30" width="40" /></a>
 <a href="https://www.facebook.com/huynhducthanhtuan" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" title="Facebook" height="30" width="40" /></a>
 </p>
-</br>
 </div>
 
