@@ -2,7 +2,7 @@
 <h3 align="left">I’m currently learning and working with: ReactJS, NodeJS & ExpressJS</h3>
 
 <div align="center">
-<h3 align="left">Technologies and tools:</h3>
+<h3 align="left">My Knowledges:</h3>
 <p align='left'>
 <a href="https://www.w3schools.com/html/" target="_blank" rel="noopener noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -32,7 +32,7 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </p>
 
-<h3 align="left">Connect and contact with me:</h3>
+<h3 align="left">My Informations:</h3>
 <p align="left">
 <a href="https://pdfhost.io/v/efKHb8Wbp_HuynhDucThanhTuanCV" target="_blank" rel="noopener noreferrer"><img align="center" src="https://cdns.iconmonstr.com/wp-content/releases/preview/2021/240/iconmonstr-cv-4.png" alt="CV" title="CV" height="30" width="40" /></a>
 <a href="mailto:tuan40655@gmail.com" target="_blank" rel="noopener noreferrer"><img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="E-mail" title="E-mail" height="30" width="40" /></a>
