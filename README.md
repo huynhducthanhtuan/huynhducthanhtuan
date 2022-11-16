@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Huynh Duc Thanh Tuan</h1>
-<h3 align="left">I’m currently learning and working with: ReactJS, NodeJS & ExpressJS</h3>
+<h3 align="left">I’m currently learning and working with: NodeJS & ExpressJS, ReactJS</h3>
 
 <div align="center">
 <h3 align="left">My Knowledges:</h3>
