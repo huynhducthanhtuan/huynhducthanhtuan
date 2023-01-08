@@ -30,7 +30,7 @@
 </a>
 </p>
 
-<h3 align="left">My Informations:</h3>
+<h3 align="left">My Information:</h3>
 <p align="left">
 <a href="mailto:tuan40655@gmail.com" target="_blank" rel="noopener noreferrer"><img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="E-mail" title="E-mail" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/huynhducthanhtuan/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" title="Linkedin" height="30" width="40" /></a>
