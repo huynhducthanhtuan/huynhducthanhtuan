@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Huynh Duc Thanh Tuan ^^</h1>
+<h1 align="left">Hi, I'm Tuan^^</h1>
 <h3 align="left">I’m currently learning and working with: NodeJS & ExpressJS</h3>
 
 <div align="center">
