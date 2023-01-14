@@ -1,6 +1,6 @@
-<h1 align="left">Hi guys, I'm Tuan^^</h1>
-<h3 align="left">Glad to know you</h3>
-<h3 align="left">I’m currently learning NodeJS & ExpressJS</h3>
+<h1 align="left">Hi guys, I'm Tuan.</h1>
+<h3 align="left">Glad to know you^^</h3>
+<h3 align="left">I’m currently learning NodeJS & ExpressJS.</h3>
 
 <div align="center">
 <h3 align="left">My Knowledges:</h3>
