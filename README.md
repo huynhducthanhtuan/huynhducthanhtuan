@@ -2,7 +2,7 @@
 <h3 align="left">I’m learning NodeJS and ExpressJS.</h3>
 
 <div align="center">
-<h3 align="left">My Knowledges:</h3>
+<h3 align="left">My Knowledge:</h3>
 <p align='left'>
 <a href="https://www.w3schools.com/html/" target="_blank" rel="noopener noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
