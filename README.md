@@ -1,5 +1,5 @@
 <h1 align="left">Hi guys. I'm Tuan 🙋‍♂️</h1>
-<h3 align="left">I am working as a backend developer with Express.js and TypeScript</h3>
+<h3 align="left">I am working as a Backend Developer with Express.js and TypeScript</h3>
 
 <div align="center">
 <h3 align="left">My Knowledge:</h3>
