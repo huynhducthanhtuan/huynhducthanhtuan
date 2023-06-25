@@ -1,5 +1,5 @@
 <h1 align="left">Hi guys. I'm Tuan 🙋‍♂️</h1>
-<h3 align="left">I am working as a Backend Developer with Express.js and TypeScript</h3>
+<h3 align="left">I am currently researching and working with Express.js + TypeScript and NestJS</h3>
 
 <div align="center">
 <h3 align="left">My Knowledge:</h3>
@@ -24,6 +24,9 @@
 </a>
 <a href="http://expressjs.com/" target="_blank" rel="noopener noreferrer">
 <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="expressjs" width="40" height="40"/>
+</a>
+<a href="https://nestjs.com/" target="_blank" rel="noopener noreferrer">
+<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/nestjs/nestjs-ar21.svg" alt="nestjs" width="40" height="40"/>
 </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
