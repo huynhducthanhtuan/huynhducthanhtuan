@@ -26,7 +26,7 @@
 <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="expressjs" width="40" height="40"/>
 </a>
 <a href="https://nestjs.com/" target="_blank" rel="noopener noreferrer">
-<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/nestjs/nestjs-ar21.svg" alt="nestjs" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg" alt="nestjs" width="40" height="40"/>
 </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
