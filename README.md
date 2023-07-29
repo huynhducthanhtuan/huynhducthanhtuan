@@ -19,14 +19,14 @@
 <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 </a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noopener noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-</a>
 <a href="http://expressjs.com/" target="_blank" rel="noopener noreferrer">
 <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="expressjs" width="40" height="40"/>
 </a>
 <a href="https://nestjs.com/" target="_blank" rel="noopener noreferrer">
 <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nestjs" width="40" height="40"/>
+</a>
+<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noopener noreferrer">
+<img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg" alt=".net" width="40" height="40"/>
 </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
@@ -36,9 +36,6 @@
 </a>
 <a href="https://firebase.google.com/" target="_blank" rel="noopener noreferrer">
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-</a>
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noopener noreferrer">
-<img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg" alt=".net" width="40" height="40"/>
 </a>
 </p>
 
