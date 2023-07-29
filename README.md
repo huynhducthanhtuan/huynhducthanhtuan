@@ -1,5 +1,5 @@
 <h1 align="left">Hi guys. I'm Tuan 🙋‍♂️</h1>
-<h3 align="left">I am currently working with Express.js + TypeScript and NestJS</h3>
+<h3 align="left">I am currently working with NodeJS and researching .NET</h3>
 
 <div align="center">
 <h3 align="left">My Knowledge:</h3>
@@ -36,6 +36,9 @@
 </a>
 <a href="https://firebase.google.com/" target="_blank" rel="noopener noreferrer">
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+</a>
+<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noopener noreferrer">
+<img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg" alt=".net" width="40" height="40"/>
 </a>
 </p>
 
