@@ -1,5 +1,5 @@
 <h1 align="left">Hi guys. I'm Tuan 🙋‍♂️</h1>
-<h3 align="left">I am currently working with NodeJS and researching .NET</h3>
+<h3 align="left">I am currently researching and working with NodeJS and ASP.NET</h3>
 
 <div align="center">
 <h3 align="left">My Knowledge:</h3>
