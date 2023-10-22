@@ -1,8 +1,7 @@
-<h1 align="left">Hi guys. I'm Tuan 🙋‍♂️</h1>
-<h3 align="left">I am currently working with .NET and NodeJS</h3>
+## Hi guys. I'm Tuan 🙋‍♂️
+### I am currently working with .NET and NodeJS
 
-<div align="center">
-<h3 align="left">My Knowledge:</h3>
+### My Knowledge:
 <p align='left'>
 <a href="https://www.w3schools.com/html/" target="_blank" rel="noopener noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -45,7 +44,7 @@
 </a>
 </p>
 
-<h3 align="left">My Information:</h3>
+### My Information
 <p align="left">
 <a href="mailto:huynhducthanhtuan@gmail.com" target="_blank" rel="noopener noreferrer"><img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="E-mail" title="E-mail" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/huynhducthanhtuan/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" title="Linkedin" height="30" width="40" /></a>
