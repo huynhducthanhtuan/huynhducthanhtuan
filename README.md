@@ -1,5 +1,5 @@
 <h1 align="left">Hi guys. I'm Tuan 🙋‍♂️</h1>
-<h3 align="left">I am currently researching and working with NodeJS and ASP.NET</h3>
+<h3 align="left">I am currently working with .NET and NodeJS</h3>
 
 <div align="center">
 <h3 align="left">My Knowledge:</h3>
@@ -36,6 +36,12 @@
 </a>
 <a href="https://firebase.google.com/" target="_blank" rel="noopener noreferrer">
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+</a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noopener noreferrer">
+<img src="https://www.vectorlogo.zone/logos/amazon/amazon-ar21.svg" alt="aws" width="40" height="40"/>
+</a>
+<a href="https://portal.azure.com" target="_blank" rel="noopener noreferrer">
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="azure" width="40" height="40"/>
 </a>
 </p>
 
