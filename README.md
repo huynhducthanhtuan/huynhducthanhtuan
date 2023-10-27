@@ -1,5 +1,5 @@
-Hi guys. I'm Tuan 🙋‍♂️
-I am currently working with .NET and NodeJS
+Hi guys. I'm Tuấn 🙋‍♂️
+I am currently working with .NET and NodeJS.
 
 My Knowledge:
 <p align='left'>
