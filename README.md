@@ -1,7 +1,6 @@
-Hi guys. I'm Tuan 🙋‍♂️
-I am currently working with .NET and NodeJS.
+Hi guys. I'm Tuan 🙋‍♂️ I'm currently working with .NET and NodeJS 👨‍💻
 
-My Knowledge:
+My Knowledge💡
 <p align='left'>
 <a href="https://www.w3schools.com/html/" target="_blank" rel="noopener noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -44,7 +43,7 @@ My Knowledge:
 </a>
 </p>
 
-My Information:
+My Information ℹ️
 <p align="left">
 <a href="mailto:huynhducthanhtuan@gmail.com" target="_blank" rel="noopener noreferrer"><img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="E-mail" title="E-mail" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/huynhducthanhtuan/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" title="Linkedin" height="30" width="40" /></a>
