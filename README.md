@@ -1,4 +1,4 @@
-Hi guys. I'm Tuan 🙋‍♂️ I'm currently working with .NET and NodeJS 👨‍💻
+Hi guys. I'm Tuan 🙋‍♂️ I'm working with .NET and NodeJS 👨‍💻
 
 My Knowledge💡
 <p align='left'>
