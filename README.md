@@ -35,6 +35,9 @@ My Knowledge💡
 <a href="https://firebase.google.com/" target="_blank" rel="noopener noreferrer">
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
 </a>
+<a href="https://azure.microsoft.com/en-us/products/cosmos-db/" target="_blank" rel="noopener noreferrer">
+<img src="https://cosmos.azure.com/try/DocumentDB.93f92795.svg" alt="cosmosdb" width="40" height="40"/>
+</a>
 <a href="https://aws.amazon.com/" target="_blank" rel="noopener noreferrer">
 <img src="https://www.vectorlogo.zone/logos/amazon/amazon-ar21.svg" alt="aws" width="40" height="40"/>
 </a>
