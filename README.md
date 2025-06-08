@@ -29,8 +29,8 @@ My Knowledge💡
 <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
 </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="40" height="40"/>
+<a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" rel="noopener noreferrer">
+<img src="https://th.bing.com/th/id/OSK.R6tvRHq1UtDXMfh3jcKeD8-YbJfYMAWMj8TYqsbhvAs?w=80&h=80&c=7&o=6&dpr=1.5&pid=SANGAM" alt="sqlserver" width="40" height="40"/>
 </a>
 <a href="https://firebase.google.com/" target="_blank" rel="noopener noreferrer">
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
