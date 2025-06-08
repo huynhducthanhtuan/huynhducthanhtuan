@@ -44,6 +44,9 @@ My Knowledge💡
 <a href="https://portal.azure.com" target="_blank" rel="noopener noreferrer">
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="azure" width="40" height="40"/>
 </a>
+<a href="https://kubernetes.io/" target="_blank" rel="noopener noreferrer">
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="k8s" width="40" height="40"/>
+</a>
 </p>
 
 My Information ℹ️
