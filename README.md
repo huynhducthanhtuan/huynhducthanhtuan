@@ -20,9 +20,6 @@ My Knowledge💡
 <a href="http://expressjs.com/" target="_blank" rel="noopener noreferrer">
 <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="expressjs" width="40" height="40"/>
 </a>
-<a href="https://nestjs.com/" target="_blank" rel="noopener noreferrer">
-<img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nestjs" width="40" height="40"/>
-</a>
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noopener noreferrer">
 <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg" alt=".net" width="40" height="40"/>
 </a>
@@ -43,9 +40,6 @@ My Knowledge💡
 </a>
 <a href="https://portal.azure.com" target="_blank" rel="noopener noreferrer">
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="azure" width="40" height="40"/>
-</a>
-<a href="https://kubernetes.io/" target="_blank" rel="noopener noreferrer">
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="k8s" width="40" height="40"/>
 </a>
 </p>
 
