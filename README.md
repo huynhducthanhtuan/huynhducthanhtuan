@@ -27,12 +27,23 @@ I'm a **.NET** & **NodeJS** developer 👨‍💻 passionate about building scal
   <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"><img src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="SQL Server" width="40" height="40"/></a>
   <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a>
   <a href="https://azure.microsoft.com/en-us/products/cosmos-db/" target="_blank"><img src="https://cosmos.azure.com/try/DocumentDB.93f92795.svg" alt="CosmosDB" width="40" height="40"/></a>
+  <a href="https://redis.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/></a>
 </p>
 
 ### 🔹 Cloud  
 <p align="left">
   <a href="https://portal.azure.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="Azure" width="70" height="40"/></a>
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/amazon/amazon-ar21.svg" alt="AWS" width="70" height="40"/></a>
+</p>
+
+### 🔹 Tool  
+<p align="left">
+  <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>
+  </a>
+  <a href="https://swagger.io/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="SwaggerUI" width="50" height="50"/>
+  </a>
 </p>
 
 ---
