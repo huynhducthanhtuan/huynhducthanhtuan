@@ -1,6 +1,6 @@
 # 👋 Hi guys, I'm Tuan  
 
-I'm a **.NET** & **NodeJS** developer 👨‍💻 passionate about building scalable backend systems and modern web applications.  
+I'm a Software Engineer with 3 years of experiences in building scalable backend systems and modern web applications.  
 
 ---
 
