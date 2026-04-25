@@ -6,15 +6,7 @@ I'm a Software Engineer with 3 years of experience in building scalable backend 
 
 ## 💡 My Knowledge
 
-### 🔹 Frontend
-
-* HTML
-* CSS
-* JavaScript
-* TypeScript
-* React
-
-### 🔹 Backend
+### 🔹 Backend (Main skill)
 
 * C#/.NET
 * NodeJS (ExpressJS)
@@ -36,6 +28,14 @@ I'm a Software Engineer with 3 years of experience in building scalable backend 
 
 * Docker
 * Swagger
+
+### 🔹 Frontend
+
+* HTML
+* CSS
+* JavaScript
+* TypeScript
+* React
 
 ---
 
